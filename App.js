@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
+// Time 1:24 min 2nd video
 const App = () => {
   return (
     <>
